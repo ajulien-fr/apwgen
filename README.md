@@ -1,4 +1,4 @@
 # apwgen
 Android Password Generator
 
-Generate a password based on a file.
+Un petit projet en Java permettant de générer des mots de passe depuis un fichier (ne perdez pas ce fichier).
